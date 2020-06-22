@@ -1,5 +1,6 @@
 def using_include(array, element)
-array.include?("hello")
+array.include?("wow")
+array.include?("Tar")
 
 end
 
